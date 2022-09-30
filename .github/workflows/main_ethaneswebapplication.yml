@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Ethaneswebapplication'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5824B48E2827405FA82038AA4BDA4D4E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_42ABE59136CF4348A154E005364E03F9 }}
           package: .
